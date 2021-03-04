@@ -193,7 +193,7 @@ int main()
 
 	FILE *program, *traka;
 	program = fopen("program.txt", "r");
-	traka = fopen("traka.txt", "r");
+	traka = fopen("line.txt", "r");
 
 
 	elem *prva_celija;
